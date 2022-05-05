@@ -65,7 +65,7 @@ uniform_real_distribution<double> random_real(0.0,1.0);
 
 // ------ Functions ----- //
 
-//Integer exponentiation (taken from the web, speeds up the integer exponentiation process):
+//Integer exponentiation (Taken directly from https://stackoverflow.com/a/101613, speeds up the integer exponentiation process):
 int ipow(int base, int exp)
 {
     int result = 1;
