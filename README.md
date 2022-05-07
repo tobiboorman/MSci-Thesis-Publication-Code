@@ -25,3 +25,6 @@ evolving subject to local disorder and continuous measurements.
 - simTime         (Time over which sim is performed - real time)
 
 Description of mutual information calculation can be found in the preamble of the program.  
+
+## Requirements
+- Eigen package
