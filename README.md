@@ -1,14 +1,14 @@
 # MSci-Thesis-Publication-Code
 
 Dr Marcin Szyniszewski and I developed this code as part of our publication,
-Diagnostics of entanglement dynamics in noisy and disordered spin chains via the measurement-induced steady-state. \
+Diagnostics of entanglement dynamics in noisy and disordered spin chains via the measurement-induced steady-state. 
 
-Phys. Rev. B 105, 144202. \
+Phys. Rev. B 105, 144202. 
 
 ## Usage
 
 This program is designed to simulate the dynamics (including entanglement entropy and mutual information) of a quantum circuit of spin-1/2 particles
-evolving subject to local disorder and continuous measurements. \
+evolving subject to local disorder and continuous measurements. 
 
 ### Inputs for shell script:
 
